@@ -19,7 +19,7 @@ export default {
       localStorage.removeItem("user_token")
       localStorage.removeItem("user_role")
       this.goToPages()
-      location.reload()
+      //location.reload()
     },
     goToPages() {
       this.$router.push({
