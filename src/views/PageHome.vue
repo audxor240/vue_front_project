@@ -4,6 +4,7 @@
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <h2>TEST-2</h2><br>
+    <h2>TEST-3</h2><br>
   </div>
 </template>
 
